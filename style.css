@@ -53,7 +53,7 @@ body{
 }
 .main{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex-wrap: wrap;
     margin-top: 100px;
     width: 50%;
@@ -62,7 +62,6 @@ body{
 }
 .cont{
     border: 2px solid purple;
-    width:400px;
 }
 .pur{
     font-size: 1rem;
